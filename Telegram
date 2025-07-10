@@ -1,3 +1,13 @@
+# HectorTgShop Bot
+HectorTgShop_bot is a custom Telegram bot for shopping and conversation support.
+
+## Features
+- Product listings
+- Chat support with AI (ChatGPT/Grok integration)
+
+## Installation
+```bash
+pip install python-telegram-bot
 .. image:: https://raw.githubusercontent.com/python-telegram-bot/logos/master/logo-text/png/ptb-logo-text_768.png
    :align: center
    :target: https://python-telegram-bot.org
